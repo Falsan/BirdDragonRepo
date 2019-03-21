@@ -1,0 +1,28 @@
+Bird game instructions for play
+
+=====================================
+Menus
+
+For all menus please use the left mouse button to click on buttons to either start the game or move scenes.
+
+=====================================
+Flight, PC controls
+
+To accelerate, simply roll the mouse wheel forwards. To decelerate simply roll the mouse wheel backwards.
+
+Should you wish to reverse, roll the mouse wheel backwards.
+
+To angle the bird, point the mouse in a direction and click with the left mouse button. The bird will spin towards that direction.
+
+Known bugs with this system is the inability for the bird to point directly downwards or upwards. This is an issue with quarternion rotation i believe which i have been unable to solve in the time limit.
+
+=======================================
+Flight, controller controls
+
+To accelerate, simply hit right bumper repeatedly on an xbox controller. To decelerate, simply hit left bumper repeatedly.
+
+Should you wish to reverse, hit left bumper repeatedly.
+
+To angle the bird, twist the left analogue stick in a direction. A helpful directional indicator is on the front of the bird to assist you with turning.
+
+Turning harshly in certain directions can lead to issues with the control system, so gentle turns and movements are advised. 

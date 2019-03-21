@@ -4,4 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SceneManagement/GameManagementScene.unity
+    guid: 04c55274c59ead94d907b1ca828aba50
+  - enabled: 1
+    path: Assets/TestScene.unity
+    guid: edcbc57b4259cf4468270de45135ddaf
+  - enabled: 1
+    path: Assets/MainMenu/MainMenuScene.unity
+    guid: 5c83e5929289f7d488ec08eb5641d665
+  - enabled: 1
+    path: Assets/GameLogic/LoseGameScene.unity
+    guid: 6e816c4d09493f245abde678a5c924cc
+  - enabled: 1
+    path: Assets/GameLogic/WinGameScene.unity
+    guid: 96998a9a2c959bd42976cf38c1c403a2
